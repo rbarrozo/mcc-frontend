@@ -39,6 +39,13 @@ Utilize o comando npm install do NodeJs para instalar os pacotes e dependências
 ## Configurar Variável de Ambiente
 No seu terminal, criar a variável REACT_APP_API_URL e definir o seu valor com a chave de uso da API do Google Gemini.
 
+- **Linux**
+### `export REACT_APP_API_URL='valor'`
+
+- **Windows**
+### `set REACT_APP_API_URL='valor'`
+
+
 ## Scripts Disponíveis
 
 No diretório do projeto, você pode executar:
