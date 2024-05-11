@@ -15,6 +15,9 @@ Para melhorar a visualização do usuário, utilizamos o recurso de formatação
 - **ReactJS**
 - **Google Gemini**
 
+## Interface de Usuário
+![Logo](https://github.com/rbarrozo/mcc-frontend/blob/main/public/screen-shoot.png)
+
 
 # Getting Started with Master Chef Chat
 
