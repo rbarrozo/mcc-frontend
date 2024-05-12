@@ -29,7 +29,7 @@ Utilize o git no eu terminal faça o clone do repositório.
 
 ### `git clone <URL-do-repositório>`
 
-DDepois que o Git terminar de clonar, você pode acessar o diretório do projeto:
+Depois que o Git terminar de clonar, você pode acessar o diretório do projeto:
 
 ### `cd <nome-do-repositório>`
 
